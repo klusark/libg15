@@ -24,7 +24,7 @@
 #include "libg15.h"
 #include <stdio.h>
 #include <stdarg.h>
-#include <usb.h>
+#include <libusb.h>
 #include <string.h>
 #include <errno.h>
 #include "config.h"
